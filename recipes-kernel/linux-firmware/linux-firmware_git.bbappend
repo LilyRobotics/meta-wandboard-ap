@@ -21,5 +21,5 @@ ALTERNATIVE_TARGET_linux-firmware-bcm4329[brcmfmac4329-sdio.bin] = "${BRCM_FWDIR
 ALTERNATIVE_PRIORITY_linux-firmware-bcm4329[brcmfmac4329-sdio.bin] = "90"
 
 ALTERNATIVE_TARGET_linux-firmware-bcm4330[brcmfmac4330-sdio.bin] = "${BRCM_FWDIR}/brcmfmac4330-ap-sdio.bin"
-ALTERNATIVE_PRIORITY_linux-firmware-bcm4329[brcmfmac4330-sdio.bin] = "90"
+ALTERNATIVE_PRIORITY_linux-firmware-bcm4330[brcmfmac4330-sdio.bin] = "90"
 
